@@ -21,7 +21,7 @@ body {
   margin: 0;
 }
 article,
-aside,
+aside,glyphicons-halflings-regular.woff
 details,
 figcaption,
 figure,
@@ -39,7 +39,7 @@ audio,
 canvas,
 progress,
 video {
-  display: inline-block;
+  display: inline-block;glyphicons-halflings-regular.woff
   vertical-align: baseline;
 }
 audio:not([controls]) {
